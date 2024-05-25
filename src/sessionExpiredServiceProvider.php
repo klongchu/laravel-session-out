@@ -1,6 +1,6 @@
 <?php
 
-namespace devsrv\sessionout;
+namespace klongchu\sessionout;
 
 use Illuminate\Support\ServiceProvider;
 

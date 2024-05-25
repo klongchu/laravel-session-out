@@ -1,6 +1,6 @@
 <?php
 
-namespace devsrv\sessionout\Events;
+namespace klongchu\sessionout\Events;
 
 use Illuminate\Broadcasting\Channel;
 use Illuminate\Queue\SerializesModels;

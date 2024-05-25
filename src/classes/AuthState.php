@@ -1,8 +1,8 @@
 <?php
 
-namespace devsrv\sessionout\classes;
+namespace klongchu\sessionout\classes;
 
-use devsrv\sessionout\Events\AuthSessionBegins;
+use klongchu\sessionout\Events\AuthSessionBegins;
 use Auth;
 
 class AuthState

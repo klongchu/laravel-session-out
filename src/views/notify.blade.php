@@ -14,7 +14,7 @@
 <script type="text/javascript" src="{{ asset('vendor/sessionout/dist/js/main.js') }}"></script>
 <script type="text/javascript">
     function closeSessionOutModal(){
-        document.getElementById("modal-devsrv").style.visibility = "hidden";
+        document.getElementById("modal-klongchu").style.visibility = "hidden";
     }
 </script>
 @endauth

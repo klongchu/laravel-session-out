@@ -6,26 +6,24 @@
         "laravel expired session message"
     ],
     "type": "library",
-    "homepage": "https://github.com/devsrv/laravel-session-out",
+    "homepage": "https://github.com/klongchu/laravel-session-out",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Sourav Rakshit",
-            "email": "developer.srv1@gmail.com",
-            "homepage": "https://devsourav.com"
-        }
-    ],
+    "authors": [{
+        "name": "Klongchu Dev",
+        "email": "klongchu@gmail.com",
+        "homepage": "https://budhosp.go.th"
+    }],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "devsrv\\sessionout\\": "src/"
+            "klongchu\\sessionout\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "devsrv\\sessionout\\sessionExpiredServiceProvider"
+                "klongchu\\sessionout\\sessionExpiredServiceProvider"
             ]
         }
     }

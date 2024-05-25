@@ -1,6 +1,6 @@
 <?php
 
-namespace devsrv\sessionout\Http\Controllers;
+namespace klongchu\sessionout\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
